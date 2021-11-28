@@ -13,6 +13,9 @@
 <!-- main style -->
 <link rel="stylesheet" href="css/style.css">
 
+<!-- font awesome -->
+<script src="https://kit.fontawesome.com/460214a57e.js" crossorigin="anonymous"></script>
+
 <title>abiumik.id</title>
 </head>
 <body>
