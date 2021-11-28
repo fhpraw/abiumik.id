@@ -14,10 +14,12 @@
     <title>abiumikid</title>
 </head>
 <body>
-    <h1 class="header">abiumik.id</h1>
+    <header>
+        <h1 class="header">abiumik.id</h1>
+    </header>
 
-    <div class="body">
+    <main class="body">
         <p class="desc">sebuah masterpiece yang ... <span class="bagong mbagongkan">membagongkann</span></p>
-    </div>
+    </main>
 </body>
 </html>
