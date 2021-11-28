@@ -17,7 +17,7 @@
     <h1 class="header">abiumik.id</h1>
 
     <div class="body">
-        <p class="desc">sebuah masterpiece yang ... <span class="bagong mbagongkan">membagongkan</span></p>
+        <p class="desc">sebuah masterpiece yang ... <span class="bagong mbagongkan">membagongkann</span></p>
     </div>
 </body>
 </html>
